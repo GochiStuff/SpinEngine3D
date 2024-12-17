@@ -18,3 +18,6 @@ To build and run SpinEngine3D, you'll need:
 
 C++ Compiler: GCC, Clang, or Visual Studio (ensure C++11 or later is supported).
 SFML Library: Install SFML for graphics, window management, and system events.
+
+RELEASE 
+https://github.com/GochiStuff/SpinEngine3D/releases/tag/SpineEngine3D-Cube

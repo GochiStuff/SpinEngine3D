@@ -2,7 +2,7 @@
 A lightweight 3D cube rendering engine using **SFML**. It showcases basic 3D transformations like smooth rotation along the X and Y axes.
 
 ---
-
+can run this with SFML lib
 ### Features  
 - Smooth cube rotation  
 - Simple perspective projection  
